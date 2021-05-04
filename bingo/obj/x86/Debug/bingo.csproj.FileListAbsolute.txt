@@ -1,0 +1,98 @@
+C:\Users\Anonymous\Desktop\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\Anonymous\Desktop\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\bingo.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\bingo.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\bingo.exe
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\bingo.pdb
+C:\Users\Anonymous\Desktop\bingo\bingo\bin\Debug\bs\bingo.resources.dll
+C:\Users\Anonymous\Desktop\bingo\bingo\bin\Debug\ko-KP\bingo.resources.dll
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.bs.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.ko-KP.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\bs\bingo.resources.dll
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\ko-KP\bingo.resources.dll
+C:\Users\Anonymous\Desktop\bingo\bingo\bin\Debug\brx-IN\bingo.resources.dll
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.brx-IN.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\brx-IN\bingo.resources.dll
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Anonymous\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.exe
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.pdb
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\bin\Debug\brx-IN\bingo.resources.dll
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\bin\Debug\bs\bingo.resources.dll
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\bin\Debug\ko-KP\bingo.resources.dll
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.brx-IN.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.bs.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.ko-KP.resources
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\brx-IN\bingo.resources.dll
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bs\bingo.resources.dll
+C:\Users\Anonymous\Desktop\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\ko-KP\bingo.resources.dll
+E:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.exe
+E:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.pdb
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.exe
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.pdb
+F:\ppj PROJEKAT\bingo\bingo\bin\Debug\bingo.exe
+F:\ppj PROJEKAT\bingo\bingo\bin\Debug\bingo.pdb
+F:\ppj PROJEKAT\bingo\bingo\bin\Debug\brx-IN\bingo.resources.dll
+F:\ppj PROJEKAT\bingo\bingo\bin\Debug\bs\bingo.resources.dll
+F:\ppj PROJEKAT\bingo\bingo\bin\Debug\ko-KP\bingo.resources.dll
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.csprojResolveAssemblyReference.cache
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.brx-IN.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.bs.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.ko-KP.resources
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bingo.csproj.GenerateResource.Cache
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\brx-IN\bingo.resources.dll
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\bs\bingo.resources.dll
+F:\ppj PROJEKAT\bingo\bingo\obj\x86\Debug\ko-KP\bingo.resources.dll
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\bingo.exe
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\bingo.pdb
+C:\Users\Isko\Desktop\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\Isko\Desktop\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\Isko\Desktop\bingo\bingo\bin\Debug\brx-IN\bingo.resources.dll
+C:\Users\Isko\Desktop\bingo\bingo\bin\Debug\bs\bingo.resources.dll
+C:\Users\Isko\Desktop\bingo\bingo\bin\Debug\ko-KP\bingo.resources.dll
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\bingo.csprojResolveAssemblyReference.cache
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.brx-IN.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.bs.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\WindowsFormsApplication1.Form4.ko-KP.resources
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\bingo.csproj.GenerateResource.Cache
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\brx-IN\bingo.resources.dll
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\bs\bingo.resources.dll
+C:\Users\Isko\Desktop\bingo\bingo\obj\x86\Debug\ko-KP\bingo.resources.dll
